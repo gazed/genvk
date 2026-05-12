@@ -1,0 +1,8 @@
+vk/
+
+genvk
+*.exe
+*.xml
+
+.vscode/
+.DS_Store
